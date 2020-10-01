@@ -1,0 +1,27 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "Sample clock browser app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinipete/clock.git"
+  },
+  "keywords": [
+    "nodejs",
+    "clock",
+    "browser"
+  ],
+  "author": "Pedro Marini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinipete/clock/issues"
+  },
+  "homepage": "https://github.com/marinipete/clock#readme",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
